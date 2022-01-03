@@ -1,7 +1,5 @@
 ### Hi there, I'm Vadim 👋 
 
-![photo_2022-01-03 17 56 22](https://user-images.githubusercontent.com/22453570/147945951-5f79588b-c7c4-4806-9b9b-e60f68a11ccb.jpeg)
-
 ## I'm an iOS developer from Russia
 - 🚕 I’m currently working at Wheely
 - 📚 I’m learning how to become a stronger developer
