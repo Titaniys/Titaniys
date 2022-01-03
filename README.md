@@ -1,5 +1,7 @@
 ### Hi there, I'm Vadim 👋 
 
+![photo_2022-01-03 17 56 22](https://user-images.githubusercontent.com/22453570/147945951-5f79588b-c7c4-4806-9b9b-e60f68a11ccb.jpeg)
+
 ## I'm an iOS developer from Russia
 - 🚕 I’m currently working on Wheely
 - 🌱 I’m currently learning how to become a stronger developer
@@ -7,9 +9,11 @@
 - ⚡ Fun fact: I love to travel 🧳  and snowboarding 🏂 
 
 ### Connect with me:
-[<img align="left" alt="chvadim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="chvadim | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="vadim-chistyakov-355774143 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="vadim_chist | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="vadim_chist | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
+
 <br />
 
 ### Languages and Tools:
@@ -25,6 +29,7 @@
 <br />
 
 ---
+[leetcode]: https://leetcode.com/Titaniys
 [telegram]: https://t.me/chvadim
 [instagram]: https://instagram.com/vadim_chist
 [linkedin]: https://www.linkedin.com/in/vadim-chistyakov-355774143
