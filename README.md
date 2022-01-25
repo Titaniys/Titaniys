@@ -27,7 +27,6 @@
 <br />
 
 ---
-<img align="left" alt="Titaniys GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=titaniys&show_icons=true&hide_border=true" />
   
 [leetcode]: https://leetcode.com/Titaniys
 [telegram]: https://t.me/chvadim
