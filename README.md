@@ -1,7 +1,7 @@
 ### Hi there, I'm Vadim 👋 
 
 ## I'm an iOS developer
-- 🚕 I’m currently working as a contracter for the USA based company
+- 🚕 I’m currently working as a contractor in the USA based company
 - 📚 I’m learning how to become a stronger developer
 - 🥅 I like to practice on LeetCode
 - ⚡ Fun fact: I love to travel 🧳  and snowboarding 🏂 
