@@ -1,8 +1,8 @@
 ### Hi there, I'm Vadim 👋 
 
 ## I'm an iOS developer
-- 🚕 I’m currently working as a contractor in the USA based company
-- 📚 I’m learning how to become a stronger developer
+- 🚕 I’m currently working as a team lead at Prequel
+- 📚 I’m learning how to build the best digital solutions
 - 🥅 I like to practice on LeetCode
 - ⚡ Fun fact: I love to travel 🧳  and snowboarding 🏂 
 
